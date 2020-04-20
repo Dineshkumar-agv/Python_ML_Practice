@@ -69,7 +69,7 @@ Created on Sun Mar 29 17:44:00 2020
 #
 #for values in dict:
 #    print(values)
-
+#comments
 dict1={'Jeff ':'Is afraid of clowns.',
 'David':'Plays the piano.',
 'Jason':'Can fly an airplane.'
